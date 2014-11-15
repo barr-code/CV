@@ -1,7 +1,6 @@
 ## Victoria Barr
 
-####  e-mail: vwbarr@gmail.com   |   twitter: [@barr_code](https://twitter.com/barr_code)
-####  github: [barr-code](https://github.com/barr-code)  |  skype: barr-code
+####  e-mail: vwbarr@gmail.com | twitter: [@barr_code](https://twitter.com/barr_code) | github: [barr-code](https://github.com/barr-code) | skype: barr-code
 
 ### About Me
 ___________________
