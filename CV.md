@@ -14,15 +14,17 @@ in London, Dublin, New York, or San Francisco.
 
 ### Skills
 ___________________
+**Practices:** TDD, BDD, Agile, Pair Programming, SOLID Design, Version Control with Git
+
 **Languages:** Ruby, JavaScript, CoffeeScript, HTML, CSS
 
-**Testing Tools**: RSpec, Capybara, Cucumber, Mocha, Jasmine, Zombie
+**Testing Tools**: RSpec, Capybara, Cucumber, Mocha, Chai, Jasmine, Zombie.js
 
-**Frameworks:** Sinatra, Rails, Express
+**Frameworks/Libraries:** Sinatra, Rails, Node.js, Express.js
 
 **Databases/ORMs:** PostgreSQL, DataMapper, ActiveRecord, MongoDB, Mongoose
 
-**Other:** JQuery, ERB, EJS, Handlebars
+**Other:** APIs, JQuery, ERB, EJS, Handlebars.js, Heroku
 
 ### Education
 ___________________
@@ -50,3 +52,9 @@ Pathways Intern in the Office of Recruitment and Outreach
 
 #####Columbia University Press | May 2012-Aug 2012
 Subsidiary Rights Intern
+
+####A Few Repos to Check Out
+____________________
+| [FAAST](https://github.com/barr-code/FAAST) | [Thermostat](https://github.com/barr-code/Thermostat) | [Flitter](https://github.com/barr-code/Flitter) |
+|:--------------- |:-------- |:--------- |
+| One of my first repos from Makers Academy, which taught me how to make Ruby classes interact. | An exercise that helped me learn how to use APIs and JQuery. | A Twitter clone that gave me practice in building databases and user management systems. |
