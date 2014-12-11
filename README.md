@@ -10,7 +10,7 @@ coding bootcamp at [Makers Academy](http://www.makersacademy.com). When I'm not 
 (which these days is not often), you can find me watching Netflix, reading fantasy/fiction, or traipsing through 
 the countryside taking photos.
 
-After I finish at Makers in December, I am looking for a junior developer position
+Since completing the Makers Academy course in December, I am looking for a junior developer position
 in London, Dublin, New York, or San Francisco.
 
 ### Skills
