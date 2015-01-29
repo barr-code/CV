@@ -25,7 +25,7 @@ ___________________
 
 **Databases/ORMs:** PostgreSQL, DataMapper, ActiveRecord, MongoDB, Mongoose
 
-**Other:** APIs, JQuery, ERB, EJS, Handlebars.js, Heroku
+**Other:** API integration, JQuery, ERB, EJS, Handlebars.js, Heroku
 
 ### Education
 ___________________
